@@ -1,4 +1,4 @@
- """# Bank Customer Churn Prediction
+# Bank Customer Churn Prediction
 
 ## Overview
 This project predicts customer churn for a bank using machine learning techniques. It analyzes a dataset of 10,000 customers to identify key factors influencing churn (e.g., Age, Balance) and builds predictive models to classify customers as likely to churn or not. The project demonstrates data analysis, visualization, preprocessing, and modeling, suitable for academic evaluation or portfolio展示.
